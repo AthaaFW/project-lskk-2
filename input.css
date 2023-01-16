@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sosmed{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
